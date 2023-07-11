@@ -13,4 +13,4 @@
 <br />
 <br />
 
-To see integration examples, download this repo and start any of the apps (based on your desired integration type.
+To see integration examples, download this repo and start the app.
